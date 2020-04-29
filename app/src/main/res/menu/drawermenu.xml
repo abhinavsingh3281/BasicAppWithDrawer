@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/StudyGyan" android:title="@string/blog_studygyan" android:icon="@drawable/ic_icons8_blogger" android:onClick="Tapped"/>
+    <item android:id="@+id/Youtube" android:title="@string/youtube" android:icon="@drawable/ic_icons8_youtube" android:onClick="Tapped1"/>
+    <item android:id="@+id/Instagram" android:title="@string/instagram" android:icon="@drawable/ic_icons8_instagram" android:onClick="Tapped2"/>
+    <item android:id="@+id/Facebook" android:title="@string/facebook" android:icon="@drawable/ic_icons8_facebook" android:onClick="Tapped3"/>
+    <item android:id="@+id/AboutUs" android:title="@string/about_us" android:icon="@drawable/ic_icons8_about" android:onClick="Tapped4"/>
+    <item android:id="@+id/MoreApps" android:title="@string/more_apps" android:icon="@drawable/more" android:onClick="Tapped5"/>
+    <item android:id="@+id/Share" android:title="@string/share" android:icon="@drawable/ic_icons8_share" android:onClick="Tapped6"/>
+    <item android:id="@+id/Exit" android:title="@string/exit"  android:icon="@drawable/exit" android:onClick="Tapped7"/>
+
+
+</menu>
